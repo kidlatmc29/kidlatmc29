@@ -4,7 +4,7 @@
   <img width="300" height="300" src="https://github.com/kidlatmc29/kidlatmc29/blob/main/ito_card_front.png">
 </p>
 
-L O A D I N G   D A T A . . . . 
+L O A D I N G    D A T A . . . . 
 
 #### Name: Isabel T Ovalles
 
