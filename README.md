@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hello! 👋
+
+Loading data....
+
+#### 😄 Pronouns: she/her
+
+#### 🔭 I’m currently working on ...
+- Amazon Alexa Sensative Content Intelligence (ASCI)
+   - Senior Capstone Project @ Seattle University
+
+#### 🌱 I’m currently taking ...
+- CPSC 4100: Algorithms
+
+####  📫 How to reach me: ...
+- email: isabeltovalles@gmail.com
+- linkedin: [isabeltovalles](https://www.linkedin.com/in/isabel-t-ovalles/)
+
 
 <!--
 **kidlatmc29/kidlatmc29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
