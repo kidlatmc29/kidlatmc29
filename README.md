@@ -10,8 +10,9 @@ L O A D I N G . . . .
 
 #### 😄 Pronouns: she/her
 
-#### Uni: Seattle University 
-- BS in Computer Science 
+#### 🏫 I currently go to school at...
+- Seattle University
+  - BS Computer Science 2023
 
 #### 🔭 I’m currently working on ...
 - Amazon Alexa Sensative Content Intelligence (ASCI)
