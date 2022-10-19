@@ -4,12 +4,14 @@
   <img width="300" height="300" src="https://github.com/kidlatmc29/kidlatmc29/blob/main/ito_card_front.png">
 </p>
 
-L O A D I N G    D A T A . . . . 
+L O A D I N G . . . . 
 
-#### Name: Isabel T Ovalles
-
+#### ✏️ Name: Isabel T Ovalles
 
 #### 😄 Pronouns: she/her
+
+#### Uni: Seattle University 
+- BS in Computer Science 
 
 #### 🔭 I’m currently working on ...
 - Amazon Alexa Sensative Content Intelligence (ASCI)
