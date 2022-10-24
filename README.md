@@ -6,9 +6,11 @@
 
 L O A D I N G . . . . 
 
-#### ✏️ Name: Isabel T Ovalles
+#### ✏️ My name...
+- Isabel T Ovalles
 
-#### 😄 Pronouns: she/her
+#### 😄 My pronouns...
+- she/her
 
 #### 🏫 I currently go to school at...
 - Seattle University
