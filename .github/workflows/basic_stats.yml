@@ -25,9 +25,9 @@ jobs:
           base: ""
           plugin_calendar: yes
       
-       - name: Most used (with details)
-         uses: lowlighter/metrics@latest
-         with:
+      - name: Most used (with details)
+        uses: lowlighter/metrics@latest
+        with:
           filename: metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
