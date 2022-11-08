@@ -6,18 +6,14 @@
 
 L O A D I N G . . . . 
 
-#### ✏️ My name...
-- Isabel T Ovalles
-
-#### 😄 My pronouns...
-- she/her
+#### ✏️ Isabel T Ovalles (she/her)...
 
 #### 🏫 I currently go to school at...
 - Seattle University
   - BS Computer Science 2023
 
 #### 🔭 I’m currently working on ...
-- Amazon Alexa Sensative Content Intelligence (ASCI)
+- Amazon Alexa Sensitive Content Intelligence (ASCI)
    - Senior Capstone Project @ Seattle University
 
 #### 🌱 I’m currently taking ...
