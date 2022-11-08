@@ -33,5 +33,5 @@ L O A D I N G . . . .
 
 <details>
   <summary><sub><sup>👀</sup></sub></summary>
-	<img src="https://raw.githubusercontent.com/kidlatmc29-forks/kidlatmc29-metrics/main/github-metrics.svg">
+	<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 </details>
