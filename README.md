@@ -1,27 +1,10 @@
-### Hello! 👋
-
 <p align="center">
   <img width="300" height="300" src="https://github.com/kidlatmc29/kidlatmc29/blob/main/media/ito_card_front.png">
 </p>
 
 L O A D I N G . . . . 
 
-#### ✏️ Isabel T Ovalles (she/her)...
-
-#### 🏫 I currently go to school at...
-- Seattle University
-  - BS Computer Science 2023
-
-#### 🔭 I’m currently working on ...
-- Amazon Alexa Sensitive Content Intelligence (ASCI)
-   - Senior Capstone Project @ Seattle University
-
-#### 🌱 I’m currently taking ...
-- CPSC 4100: Algorithms
-
-#### 💬 Ask me about ...
-- Gameplay Engineering
-- How to get an internship as a college student :) 
+Hiya! I'm Isabel, a senior computer science major at Seattle University. I'm interested in game engineering and game design. 
 
 ####  📫 How to reach me: ...
 - email: isabeltovalles@gmail.com
