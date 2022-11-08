@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/kidlatmc29/kidlatmc29/blob/main/ito_card_front.png">
+  <img width="300" height="300" src="https://github.com/kidlatmc29/kidlatmc29/blob/main/media/ito_card_front.png">
 </p>
 
 L O A D I N G . . . . 
