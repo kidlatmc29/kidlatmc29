@@ -30,3 +30,8 @@ L O A D I N G . . . .
 ####  📫 How to reach me: ...
 - email: isabeltovalles@gmail.com
 - linkedin: [isabeltovalles](https://www.linkedin.com/in/isabel-t-ovalles/)
+
+<details>
+  <summary><sub><sup>👀</sup></sub></summary>
+	<img src="https://raw.githubusercontent.com/kidlatmc29-forks/kidlatmc29-metrics/main/github-metrics.svg">
+</details>
