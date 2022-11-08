@@ -31,6 +31,6 @@ L O A D I N G . . . .
   <summary><sub><sup>👀</sup></sub></summary>
 	<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
   <img align="center" src="metrics.plugin.calendar.svg" width="400">
-  <img align="center" src="metrics.plugin.languages.svg" width="400">
+  <img align="center" src="metrics.plugin.languages.details.svg" width="400">
 
 </details>
