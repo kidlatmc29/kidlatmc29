@@ -30,7 +30,7 @@ L O A D I N G . . . .
 <details>
   <summary><sub><sup>👀</sup></sub></summary>
 	<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-  <img align="center" src="/github-metrics.plugin.calendar.svg">
-  <img align="center" src="/github-metrics.plugin.languages.svg">
+  <img align="center" src="/github-metrics.plugin.calendar.svg" width="400">
+  <img align="center" src="/github-metrics.plugin.languages.svg" width="400">
 
 </details>
