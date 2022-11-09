@@ -1,8 +1,3 @@
-<p>
-  <img width="100" height="100" src="https://github.com/kidlatmc29/kidlatmc29/blob/main/media/ito_card_front.png">
-  L O A D I N G . . . . 
-</p>
-
 Hiya! I'm Isabel, a senior computer science major at Seattle University. I'm interested in gameplay engineering and game design. 
 
 ##### 📫 How to reach me . . . 
