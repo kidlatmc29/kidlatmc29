@@ -3,15 +3,19 @@
   L O A D I N G . . . . 
 </p>
 
-Hiya! I'm Isabel, a senior computer science major at Seattle University. I'm interested in game engineering and game design. 
+Hiya! I'm Isabel, a senior computer science major at Seattle University. I'm interested in gameplay engineering and game design. 
 
-<details>
-  <summary> 📫 How to reach me . . . </summary>
-  - isabeltovalles@gmail.com
-  <p> 
-    - <a href="https://www.linkedin.com/in/isabel-t-ovalles/">LinkedIn</a> 
-  </p>
-</details>
+##### 📫 How to reach me . . . 
+  - email: isabeltovalles@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/isabel-t-ovalles/)
+ 
+ ##### 🔭 I’m currently working on ...
+- Amazon Alexa Sensitive Content Intelligence (ASCI)
+   - Senior Capstone Project @ Seattle University
+
+##### 💬 Ask me about ...
+- Gameplay Engineering
+- How to get an swe internship as a college student :smile:
 
 <details>
   <summary><sub><sup> Click For Stats 👀</sup></sub></summary>
