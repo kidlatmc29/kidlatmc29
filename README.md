@@ -5,14 +5,12 @@ Hiya! I'm Isabel, a computer science graduate from Seattle University. I'm inter
   - [LinkedIn](https://www.linkedin.com/in/isabel-t-ovalles/)
  
  ##### 🔭 I’m currently working on ...
+ - Call of Duty :) 
  - My [website](https://isabeltovalles.com)!
-  	-  Adding my own content on how to get a comp sci internship in college! 
-- Editing video for my [Youtube Channel](https://www.youtube.com/@ozabell)
-	- Posting videos related to computer science internships and maybe story times on how I got into the gaming industry 🎮
 
 ##### 💬 Ask me about ...
 - Gameplay Engineering
-- How to get an swe internship as a college student :smile:
+- How to get an SWE internship as a college student :smile:
 - Amazon Alexa Sensitive Content Intelligence (ASCI)
    - Senior Capstone Project @ Seattle University
 
