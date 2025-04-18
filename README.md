@@ -1,4 +1,4 @@
-Hiya! I'm Isabel, a computer science graduate from Seattle University. I'm interested in gameplay engineering and game design. 
+Hiya! I'm Isabel, gameplay engineer at Sledgehammer Games. I'm interested in gameplay engineering and game design. 
 
 ##### 📫 How to reach me . . . 
   - email: isabeltovalles@gmail.com
